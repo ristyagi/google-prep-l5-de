@@ -15,6 +15,21 @@ This repository documents my journey as Senior Data Engineer to mastering DSA fo
 | **Sliding Window** | ⚪ Pending | Stream processing / Moving Averages |
 | **Heaps** | ⚪ Pending | Top-K Elements / Merging Log Files |
 
+### Phase 1: Algorithmic Foundations
+- [ ] **Arrays & Hashing** (Focus: Deduplication, Joins)
+- [ ] **Two Pointers** (Focus: Sorted Data Merging)
+- [ ] **Sliding Window** (Focus: Stream Processing)
+
+### Phase 2: Advanced Data Structures
+- [ ] **Heaps** (Focus: Top-K, K-way Merges)
+- [ ] **Graphs** (Focus: DAGs, Dependency Trees)
+- [ ] **Intervals** (Focus: Scheduling)
+
+### Phase 3: Data Systems & Scale
+- [ ] **Distributed Systems** (Sharding, Replication)
+- [ ] **SQL Mastery** (Window Functions, Execution Plans)
+- [ ] **System Design** (ETL Architecture, Pub/Sub)
+
 ## 📈 Methodology
 Each solution includes:
 1. **The Approach:** Why this data structure was chosen.

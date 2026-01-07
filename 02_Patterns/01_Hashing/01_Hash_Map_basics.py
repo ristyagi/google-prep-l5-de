@@ -21,6 +21,9 @@ hashtable and hashmap are two terms used for that same datastrucutre and diction
 
 in hashtable/hashmap, we use a hash function to get a 
 
+Lookup by key is O(1) in hashmap
+Insertion/Deletion is O(1) in hashmap
+
 """
 
 #####

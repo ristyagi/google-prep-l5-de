@@ -35,3 +35,5 @@ Each solution includes:
 1. **The Approach:** Why this data structure was chosen.
 2. **Complexity:** Big O analysis for Time and Space.
 3. **DE Context:** Real-world application of the algorithm.
+
+![Folder Structure](/99_Data/images/5_folder_structure.png)
